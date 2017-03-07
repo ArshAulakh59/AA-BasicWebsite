@@ -1,3 +1,4 @@
-# AA Basic Website
-A basic HTML CSS website sample. 
-(From treehouse `How to build a basic website` course)
+# Basic Website Sample
+A basic HTML5/CSS3 website sample.
+
+Built following the Treehouse course: `How to build a basic website`.
